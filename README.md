@@ -6,6 +6,8 @@
 
 ### Usage:
 
+Time limit: 23 hours
+
 ```
 node main.mjs {hours} {minutes} {seconds} // all argumets required
 ```
