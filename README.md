@@ -7,7 +7,7 @@
 ### Usage:
 
 ```
-node main.mjs {hours} {minutes} {seconds}
+node main.mjs {hours} {minutes} {seconds} // all argumets required
 ```
 
 ### License:
